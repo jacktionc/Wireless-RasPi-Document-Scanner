@@ -1,5 +1,5 @@
 # Wireless-RaspberryPi-Document-Scanner
-Introduction: 
+## Introduction: 
 
 Since society first began, people have always needed to store information. This came in the form of oral traditions, wall carvings, and manuscripts. Now, in the digital age, the need to efficiently store, organize, and reference information has become extremely prevalent to our day to day lives, especially in academia. University students will often create and handle many different physical documents, including but not limited to, essays, lecture notes, assignments, scratch work, and exams. As their academic career continues, this physical information can become cumbersome and difficult to organize, especially for CS students who oftentimes must separately manage their digital as well as physical document folders. 
 

@@ -1,1 +1,1 @@
-# RaspberryPi-Document-Scanner
+# Wireless-RaspberryPi-Document-Scanner
